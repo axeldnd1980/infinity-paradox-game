@@ -223,3 +223,27 @@ Teams could consist of the following roles:
 - Directors (controlling high level scenarios)
 - Reporters (to report to the police, to others within the game, to have you recorded, arrested, jailed)
 
+## Zones / territories
+
+Split up the game into zones that are demarcated via CV or the like, put special markers there. If you enter or leave a zone, certain behaviors are auto triggered by the Game AI, actors or others.
+
+## Indirect brainwashing
+
+To resolve the participants of all responsibility, let them abuse the NPCs with an indirect language. Why have empathy, right? It's only humans and animals we are talking about. Why treat their illnesses and let them live a happy life, right? Who cares. The language:
+- First assign a different identity to you
+- Then talk to that person and tell him what to do. Basically re-enact what you should do
+- Then you should follow
+- If you don't: you are punished
+
+Example: You have a team at a company, you use JIRA. Someone hovers over your name then someone elses, thereby assigning you a new ID. Then that person talks to the new ID guy and tells you what to do.
+
+Direct approaches:
+- Brainwash them via hypnosis (mouse movements, pen clicking sounds, stomping, ...)
+- Images (e.g. show them a pic of a beach island, to tell them to go there)
+- Then look at them like you are mentally deranged so that they get the hint that you are, in fact, a heartless, mentally deranged, animal
+- Sound etc. too
+
+Three steps: Compliment them, soften them. Do your bidding. Then insult them, belittle them.
+
+This is how you get what you want from the NPCs basically. So if you were let's say, a woman, and you want an NPC man with children, you could go on Bumble and then start brainwashing your new husband into doing what you want. If you do it as a collective (the women) you might expect the men to get desperate and to follow more.
+
