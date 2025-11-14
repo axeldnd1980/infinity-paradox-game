@@ -162,6 +162,10 @@ Have brain scanners everywhere.
 
 Have the eyes scan and transmit your info everywhere instantly.
 
+You can get reported to law enforcement for arbitrary reasons.
+
+You can get fired from your job for arbitrary reasons. It's all in good fun.
+
 ## Teams
 
 Then let people have teams. Make teams pages. Have them wear t-shirts
@@ -200,4 +204,18 @@ Societal related:
 
 - There could be filters on the cameras, which are hacked, to filter out the game signals so that they are not detectable by outsiders
 - Many filters. They could even be activatable and deactivatable
+
+## Team structure
+
+Teams could consist of the following roles:
+- Punishers
+- Healers
+- Signalers (color coded, dress etc.)
+- Relays (for info etc.)
+- Clones, imitators
+- Behavior influencers, abusers (NLP, etc.) to soften your brain
+- Coughers to signal beginning/end of acts
+- Actors (just people having some fun)
+- Directors (controlling high level scenarios)
+- Reporters (to report to the police, to others within the game, to have you recorded, arrested, jailed)
 
