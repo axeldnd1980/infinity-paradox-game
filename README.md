@@ -6,6 +6,10 @@ It is about how you would embed a game into society. So basically you would play
 
 In this repository are my ideas and then step by step the implementations.
 
+## The game designers / coders
+
+Who would build this? I would say a highly intelligent layer of society. If I were smart and even a genius (which I am not, obviously) then I would hide my knowledge and only include other very smart people and force the non-smart ones into compliance. If I were smart, perhaps I would have found a way to unlock genius in everyone at will.
+
 ## Communication/Control
 
 Hide IoT devices, cameras and listening devices into everything: lamps, attach devices to lamp posts everywhere, hide them in bird houses or on the ground.
